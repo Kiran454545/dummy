@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-03T15:18:27 IST" name="Suite" finished-at="2025-08-03T15:18:27 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2025-08-03T15:18:27 IST" name="Test" finished-at="2025-08-03T15:18:27 IST" duration-ms="55">
+      <class name="TestNGStart.Annotations">
+        <test-method is-config="true" signature="suitemethod()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="suitemethod" finished-at="2025-08-03T15:18:27 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitemethod -->
+        <test-method is-config="true" signature="Beforeetest()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="Beforeetest" finished-at="2025-08-03T15:18:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeetest -->
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="Beforeclass" finished-at="2025-08-03T15:18:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method signature="test1()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="test1" finished-at="2025-08-03T15:18:27 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="test2" finished-at="2025-08-03T15:18:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="afterclass" finished-at="2025-08-03T15:18:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="aftertest" finished-at="2025-08-03T15:18:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:TestNGStart.Annotations@16d04d3d]" started-at="2025-08-03T15:18:27 IST" name="aftersuite" finished-at="2025-08-03T15:18:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- TestNGStart.Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
